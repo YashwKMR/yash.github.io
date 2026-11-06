@@ -15,4 +15,4 @@ I build compact, efficient language models under **Airavat AI** and lead sales f
 * 🤗 **Hugging Face:** [Airavat-ai](https://huggingface.co/Airavat-ai)
 - [`index.html`](index.html) — the site (single static page)
 - [Agentic-Workflows](https://github.com/yashwant0906/Agentic-Workflows) — agentic workflow patterns for Claude, OpenAI, or local LLMs
--  [Dockyard Harness] ( https://github.com/YashwKMR/Dockyard_harness ) - Open-Source Autonomous Coding Harness & Agent Engine Built for Long-Horizon Engineering, Contextual Intelligence, Reinforcement Learning (RL) Signals, and Continuous Self-Improvement.
+-  [Dockyard Harness](https://github.com/YashwKMR/Dockyard_harness) - Open-Source Autonomous Coding Harness & Agent Engine Built for Long-Horizon Engineering, Contextual Intelligence, Reinforcement Learning (RL) Signals, and Continuous Self-Improvement.
